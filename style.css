@@ -52,9 +52,6 @@ header h1 {
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
-.skills ul {
-    list-style: none;
-}
 
 .skills li {
     background: #4a47a3;
